@@ -1,1 +1,3 @@
 # LOTTO
+
+New game
